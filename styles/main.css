@@ -50,20 +50,14 @@ main {
     clear: left;
     padding: 0 30px;
 }
-/* the h1 styles for exercise 5-1
-main h1 {
-	font-size: 150%;
-    border-top: 3px solid #931420;
-    border-bottom: 3px solid #931420;
-    padding: .3em 0;
-} */
-
 
 /* the h1 styles for exercise 5-2 */
 main h1 {
     font-size: 150%;
-    border: 3px double #800000;
-
+    border: 2px double #800000;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px;
 }
 main h2 {
     color: #800000;
